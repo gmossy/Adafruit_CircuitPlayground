@@ -4,8 +4,7 @@ of the [Circuit Playground](https://www.adafruit.com/products/3000).
 These sketches were tested and verified with:
 * Circuit Playground Developer Edition
 * Ubuntu 16.04 LTS
-* Arduino IDE 1.6.11
-* Adafruit AVR Boards 1.4.9
+* Arduino IDE 1.8.2
 * Adafruit Circuit Playground Library 1.6.1
 
 ## Hello_Blink
