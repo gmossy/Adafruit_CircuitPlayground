@@ -258,6 +258,16 @@ Library Reference
 	above approximately 50 will correspond to a touch, but it does depend a bit on what
 	material and length is connected to the pin so you will need to adjust your code
 	based on your setup.
+	
+	
+## Firmata
+	Firmata is a protocol for communicating with microcontrollers from software on a
+	host computer. The protocol can be implemented in firmware on any microcontroller
+	architecture as well as software on any host computer software package. The Arduino
+	repository described here is a Firmata library for Arduino and Arduino-compatible
+	devices.
+
+   https://github.com/firmata/arduino#firmata-client-libraries
 
 ## Hardware Pins
 	Starting from the Micro USB jack and going counter-clockwise here are what the pins do.
