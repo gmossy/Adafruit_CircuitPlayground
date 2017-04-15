@@ -5,6 +5,8 @@ float X, Y, Z;
 void setup() {
   Serial.begin(9600);
   CircuitPlayground.begin();
+      CircuitPlayground.setAccelRange(LIS3DH_RANGE_2_G);
+      
 }
 
 void loop() {
