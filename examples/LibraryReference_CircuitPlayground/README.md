@@ -12,7 +12,7 @@ These sketches were tested and verified with:
 	start writing code. This LED also pulses to let you know when the bootloader is
 	active and ready to receive a program
  
-    Library Reference
+      Library Reference
 	You can turn the #13 LED on by calling the procedure CircuitPlayground.redLED(true)
 	and turn it off with CircuitPlayground.redLED(false)
 
@@ -22,7 +22,7 @@ These sketches were tested and verified with:
 	#21. When switched to the left, the value reading is 'high' (thus the + symbol) and
 	when switched right, the value read is 'low' (- symbol).
 	
-	Library Reference
+      Library Reference
 	You can call CircuitPlayground.slideSwitch() to tell you which
 	way the switch is flipped. It will return true if the switch is to the left (+
 	side) and false if the switch is to the right (- side)
@@ -51,7 +51,7 @@ These sketches were tested and verified with:
 	Note that outdoor daylight is 10,000 Lux or even higher, so this sensor is best
 	suited for indoor light levels!
 
-	Library Reference
+     Library Reference
 	 You can request the raw analog reading (0 = no light, up to 1023
 	= ~1500 Lux) with CircuitPlayground.lightSensor()
 
@@ -83,7 +83,7 @@ These sketches were tested and verified with:
 	the I2C pins free) and has the chip select (CS) pin on digital pin #8 and an
 	optional interrupt output on digital pin #7 (also known as IRQ #4)
 
-	Library Reference
+     Library Reference
 	 Motion in X Y and Z
 
 	You can ask the sensor for the amount of g detected in X, Y and Z directions.
@@ -148,7 +148,7 @@ These sketches were tested and verified with:
 	you want to set the color for. Each NeoPixel is numbered, starting with #0 at the
 	top left and going counter clockwise till you reach #9
 
-	Library Reference
+      Library Reference
 	setPixelColor
 
 	You can set the color for each pixel with the built in NeoPixel library:
