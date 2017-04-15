@@ -5,7 +5,7 @@ These sketches were tested and verified with:
 * Circuit Playground Developer Edition
 * Ubuntu 16.04 LTS
 * Arduino IDE 1.8.2
-* Adafruit Circuit Playground Library 1.6.1
+* Adafruit Circuit Playground Library 1.6.4
 
 ## Hello_Blink
 Blinks the little red LED next to the micro USB connector once per second.
