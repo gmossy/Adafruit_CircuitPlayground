@@ -5,6 +5,7 @@ void setup() {
 }
 
 void loop() {
+  // Blink the RedLED
   CircuitPlayground.redLED(HIGH);
   delay(500);
   CircuitPlayground.redLED(LOW);
